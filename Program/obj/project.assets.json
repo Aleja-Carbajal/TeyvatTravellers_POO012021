@@ -8,24 +8,31 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Beatriz Carbajal\\.nuget\\packages\\": {}
+    "C:\\Users\\kenia\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\UCA\\Ciclo III\\POO\\TeyvatTravellers_POO012021\\Program\\Program.csproj",
+      "projectUniqueName": "C:\\Users\\kenia\\Desktop\\TeyvatTravellers_POO012021\\Program\\Program.csproj",
       "projectName": "Program",
-      "projectPath": "D:\\UCA\\Ciclo III\\POO\\TeyvatTravellers_POO012021\\Program\\Program.csproj",
-      "packagesPath": "C:\\Users\\Beatriz Carbajal\\.nuget\\packages\\",
-      "outputPath": "D:\\UCA\\Ciclo III\\POO\\TeyvatTravellers_POO012021\\Program\\obj\\",
+      "projectPath": "C:\\Users\\kenia\\Desktop\\TeyvatTravellers_POO012021\\Program\\Program.csproj",
+      "packagesPath": "C:\\Users\\kenia\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kenia\\Desktop\\TeyvatTravellers_POO012021\\Program\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Beatriz Carbajal\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\kenia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
