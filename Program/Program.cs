@@ -14,13 +14,13 @@ namespace Program
             Console.WriteLine("Ingrese un valor para la variable Y:");
             y = Int32.Parse(Console.ReadLine());
 
-            Console.WriteLine($"La suma de {x} + {y} es igual a {AddNumbers(x,y)}");
+            Console.WriteLine($"La multiplicacion de {x} + {y} es igual a {MultiplyNumbers(x,y)}");
 
         }
 
-        public static int AddNumbers(int x, int y)
+        public static int MultiplyNumbers(int x, int y)
         {
-            return x+y;
+            return x*y;
         }
     }
 }
