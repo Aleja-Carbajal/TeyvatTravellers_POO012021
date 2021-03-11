@@ -14,3 +14,19 @@ D:\UCA\Ciclo III\POO\TeyvatTravellers_POO012021\Program\obj\Debug\net5.0\Program
 D:\UCA\Ciclo III\POO\TeyvatTravellers_POO012021\Program\obj\Debug\net5.0\ref\Program.dll
 D:\UCA\Ciclo III\POO\TeyvatTravellers_POO012021\Program\obj\Debug\net5.0\Program.pdb
 D:\UCA\Ciclo III\POO\TeyvatTravellers_POO012021\Program\obj\Debug\net5.0\Program.genruntimeconfig.cache
+C:\Users\kenia\Desktop\TeyvatTravellers_POO012021\Program\bin\Debug\net5.0\Program.exe
+C:\Users\kenia\Desktop\TeyvatTravellers_POO012021\Program\bin\Debug\net5.0\Program.deps.json
+C:\Users\kenia\Desktop\TeyvatTravellers_POO012021\Program\bin\Debug\net5.0\Program.runtimeconfig.json
+C:\Users\kenia\Desktop\TeyvatTravellers_POO012021\Program\bin\Debug\net5.0\Program.runtimeconfig.dev.json
+C:\Users\kenia\Desktop\TeyvatTravellers_POO012021\Program\bin\Debug\net5.0\Program.dll
+C:\Users\kenia\Desktop\TeyvatTravellers_POO012021\Program\bin\Debug\net5.0\ref\Program.dll
+C:\Users\kenia\Desktop\TeyvatTravellers_POO012021\Program\bin\Debug\net5.0\Program.pdb
+C:\Users\kenia\Desktop\TeyvatTravellers_POO012021\Program\obj\Debug\net5.0\Program.csprojAssemblyReference.cache
+C:\Users\kenia\Desktop\TeyvatTravellers_POO012021\Program\obj\Debug\net5.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenia\Desktop\TeyvatTravellers_POO012021\Program\obj\Debug\net5.0\Program.AssemblyInfoInputs.cache
+C:\Users\kenia\Desktop\TeyvatTravellers_POO012021\Program\obj\Debug\net5.0\Program.AssemblyInfo.cs
+C:\Users\kenia\Desktop\TeyvatTravellers_POO012021\Program\obj\Debug\net5.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\kenia\Desktop\TeyvatTravellers_POO012021\Program\obj\Debug\net5.0\Program.dll
+C:\Users\kenia\Desktop\TeyvatTravellers_POO012021\Program\obj\Debug\net5.0\ref\Program.dll
+C:\Users\kenia\Desktop\TeyvatTravellers_POO012021\Program\obj\Debug\net5.0\Program.pdb
+C:\Users\kenia\Desktop\TeyvatTravellers_POO012021\Program\obj\Debug\net5.0\Program.genruntimeconfig.cache
